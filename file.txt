@@ -1,0 +1,5 @@
+Nombre:Facundo
+Apellido:Ledesma
+Comentario:
+"El taller me parecio muy entretenido y aprendi mucho de SCV, desde ya les doy las gracias a todos 
+los que hicieron posible este taller y me gustaria ir al proximo encuentro de hackathon"
